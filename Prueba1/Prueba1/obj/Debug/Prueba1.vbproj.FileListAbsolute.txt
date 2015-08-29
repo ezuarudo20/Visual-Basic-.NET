@@ -1,0 +1,10 @@
+c:\users\pcmcodc\documents\visual studio 2013\Projects\Prueba1\Prueba1\bin\Debug\Prueba1.exe.config
+c:\users\pcmcodc\documents\visual studio 2013\Projects\Prueba1\Prueba1\bin\Debug\Prueba1.exe
+c:\users\pcmcodc\documents\visual studio 2013\Projects\Prueba1\Prueba1\bin\Debug\Prueba1.pdb
+c:\users\pcmcodc\documents\visual studio 2013\Projects\Prueba1\Prueba1\bin\Debug\Prueba1.xml
+c:\users\pcmcodc\documents\visual studio 2013\Projects\Prueba1\Prueba1\obj\Debug\Prueba1.Form1.resources
+c:\users\pcmcodc\documents\visual studio 2013\Projects\Prueba1\Prueba1\obj\Debug\Prueba1.Resources.resources
+c:\users\pcmcodc\documents\visual studio 2013\Projects\Prueba1\Prueba1\obj\Debug\Prueba1.vbproj.GenerateResource.Cache
+c:\users\pcmcodc\documents\visual studio 2013\Projects\Prueba1\Prueba1\obj\Debug\Prueba1.exe
+c:\users\pcmcodc\documents\visual studio 2013\Projects\Prueba1\Prueba1\obj\Debug\Prueba1.xml
+c:\users\pcmcodc\documents\visual studio 2013\Projects\Prueba1\Prueba1\obj\Debug\Prueba1.pdb
